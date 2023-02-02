@@ -5,5 +5,6 @@ class Ternary{
         int c=40;
         int res=(a<b)? a:b;
         System.out.println(res);
+        //this is a ternary program
     }
 }
